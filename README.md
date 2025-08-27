@@ -1,7 +1,6 @@
 # Ultimate Linux Guide #
 
 This repository is created to serve as a revision notes.
-
 Following topics are covered as part of the course and documentation.
 
 - Fundamentals of Linux
