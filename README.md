@@ -18,3 +18,17 @@ Following topics are covered as part of the course and documentation.
 - Disk and Storage management in Linux
 
 Please refer to the folders at the root level of this repository to go through the documentation. 
+
+
+Real-Time Troubleshooting Scenarios
+This section will make your repository stand out:
+
+- Server CPU 100%
+- Disk full issue
+- Application port not accessible
+- Service not starting
+- Memory leak investigation
+- SSH connection failure
+- DNS resolution issue
+- Website returning 502/503
+- Log file growing rapidly
