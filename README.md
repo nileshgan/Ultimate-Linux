@@ -20,7 +20,6 @@ Following topics are covered as part of the course and documentation.
 Please refer to the folders at the root level of this repository to go through the documentation. 
 
 
-Real-Time Troubleshooting Scenarios
 This section will make your repository stand out:
 
 - Server CPU 100%
