@@ -13,7 +13,6 @@ Following topics are covered as part of the course and documentation.
 - VI Editor shortcuts (commonly used)
 - File permissions
 - Process management
-- Linux system monitoring
 - Basic Networking in Linux
 - Disk and Storage management in Linux
 
